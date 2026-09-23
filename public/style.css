@@ -1,6 +1,7 @@
 .chain-border   {
-    border: 5rem;
-    border-image: url('./chain-border.png');
+    border: 5rem solid transparent;
+    padding: 10rem;
+    border-image: url('./chain-border.png') 50 round;
 }
 
 html {
