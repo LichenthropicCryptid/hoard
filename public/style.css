@@ -2,7 +2,7 @@
     border: 5rem solid transparent;
     padding: 50px;
     border-radius: 2rem;
-    border-image: url('./chain-border.png') 30 round;
+    border-image: url('./chain-border.png') 80 round;
     z-index: 4;
     background-color: #090909;
 }
