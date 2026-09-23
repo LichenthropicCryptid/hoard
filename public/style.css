@@ -2,6 +2,7 @@
     border: 5rem solid transparent;
     padding: 50px;
     border-image: url('./chain-border.png') 30 round;
+    z-index: 4;
 }
 
 html {
@@ -9,6 +10,7 @@ html {
     width:100%;
     height:100%;
     overflow-x:hidden;
+    z-index: 1;
 }
 
 body  {
@@ -16,14 +18,14 @@ body  {
     text-align: center;
     font-family: 'Courier New', 'Courier', Monospace;
     font-weight: bold;
-    z-index: 3;
+    z-index: 2;
 }
 
 main   {
     top: 50px;
     border-radius: 10px;
     font-size: 55px;
-    z-index: 4;
+    z-index: 3;
     background-color: #5e5e5e;
 }
 
