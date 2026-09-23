@@ -5,6 +5,10 @@
     border-image: url('./chain-border.png') 80 round;
     z-index: 4;
     background-color: #090909;
+    display:flex;
+    position: relative;
+    top: 50px;
+    left: 20px;
 }
 
 html {
@@ -15,7 +19,7 @@ html {
 }
 
 body  {
-    color: rgb(10, 10, 10);
+    color: rgb(67, 66, 66);
     text-align: center;
     font-family: 'Courier New', 'Courier', Monospace;
     font-weight: bold;
@@ -25,9 +29,7 @@ body  {
 }
 
 main   {
-    display:flex;
-    position: relative;
-    top: 50px;
+    
     border-radius: 2rem;
     font-size: 55px;
     z-index: 3;
