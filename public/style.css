@@ -1,10 +1,4 @@
-.chains {
-    display:flex;
-    position:relative;
-   height: 5oopx;
-   width:500px;
-    z-index: 2;
-}
+
 
 html {
     background-color: #5e5e5e;
