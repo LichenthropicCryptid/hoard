@@ -18,6 +18,8 @@ body  {
 main   {
     font-size: 20px;
     z-index: 4;
+    border: 3rem;
+    border-image: url('chain-border.png');
 }
 
 a {
