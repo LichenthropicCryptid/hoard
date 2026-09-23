@@ -1,6 +1,6 @@
 .chain-border   {
-    border: 3rem;
-    border-image: url('chain-border.png');
+    border: 5rem;
+    border-image: url('./chain-border.png');
 }
 
 html {
