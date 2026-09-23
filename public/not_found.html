@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BANNERS</title>
+    <link id="style" rel="stylesheet" href="https://ChronicCryptid.neocities.org/style.css" type="text/css" media="all">
+</head>
+
+<body>
+    <div id="preloader"></div>
+
+    <main>
+
+ERROR, PAGE NOT FOUND. RETURN TO<br/><a href="https://ChronicCryptid.neocities.org">THE HOARD</a><BR/>
+OR<br/> VISIT<br/>  <a href="https://lichenthropic.neocities.org">THE DEN</a>
+<img src="./chain-border.png" class="chains"/>
+</main>
+<style>
+   
+</style>
+<style>
+    /* Preloader */
+    #preloader {
+        background: black url("https://ChronicCryptid.neocities.org/cdwiggle.gif") no-repeat center;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        display: flex;
+        position: fixed;
+        height: 100vh;
+        left: 0;
+        top: 0;
+        z-index: 9999;
+    }
+</style>
+<script>
+    var loader = document.getElementById("preloader");
+
+    function hideLoader() {
+        if (!loader) return;
+        fadeOut();
+    }
+
+    function fadeOut() {
+        var op = 1;
+        var fade = setInterval(function () {
+            op -= 0.1;
+            if (op <= 0) {
+                clearInterval(fade);
+                loader.style.display = "none";
+            } else {
+                loader.style.opacity = op;
+            }
+        }, 40);
+    }
+
+    // Hide once everything has loaded
+    window.addEventListener("load", hideLoader);
+
+    // Force-hide after 8 seconds even if it can't load
+    setTimeout(hideLoader, 8000);
+</script>
+</body>
+
+</html>
