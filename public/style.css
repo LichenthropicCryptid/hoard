@@ -122,7 +122,6 @@ a {
 
 ul  {
     list-style-type: none;
-    position:fixed;
-    margin: 0 auto;
+    position:FLEX;
     justify-content: center;
 }
