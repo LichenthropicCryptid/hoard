@@ -64,9 +64,25 @@
         text-shadow .5s,
         background-color .5s;
 }
+#buttons    {
+
+}
+#banners    {
+
+}
+#stamps {
+
+}
+#misc   {
+
+}
+
 .menu   {
+    font-size: larger;
+    font-weight: bolder;
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
 }
 .text-hover {
     font-size: larger;
@@ -118,14 +134,4 @@ body  {
 a {
     color: rgb(45, 0, 0);
     text-decoration: none;
-}
-
-ul  {
-    list-style-type: none;
-    display:flex;
-    flex-direction: column;
-}
-li {
-    margin: 1rem;
-    font-size: larger;
 }
