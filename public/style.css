@@ -64,7 +64,10 @@
         text-shadow .5s,
         background-color .5s;
 }
-
+.menu   {
+    display: flex;
+    flex-direction: column;
+}
 .text-hover {
     font-size: larger;
     font-weight: bolder;
