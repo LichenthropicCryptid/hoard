@@ -13,17 +13,17 @@
 }
 
 #enter  {
-    font-size: 2rem;
-    width: 10rem;
+    font-size: 1rem;
+    width: 80%;
 }
 
 #exit   {
-    font-size: 2rem;
-    width: 10rem;
+    font-size: 1rem;
+    width: 80%;
 }
 
 p   {
-    font-size: 2rem;
+    font-size: 1rem;
 }
 
 html {
