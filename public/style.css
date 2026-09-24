@@ -119,3 +119,7 @@ a {
     color: rgb(45, 0, 0);
     text-decoration: none;
 }
+
+ul  {
+    list-style-type: none;
+}
