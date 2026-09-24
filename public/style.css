@@ -92,11 +92,16 @@ body  {
 }
 
 .index   {
-    
     border-radius: 2rem;
     font-size: 55px;
     z-index: 3;
     
+}
+
+.not-found  {
+    border-radius: 2rem;
+    font-size: 55px;
+    z-index: 3;
 }
 
 a {
