@@ -30,10 +30,12 @@
 
 #enter :hover    {
     background-color: #3c3a3a;
+    text-shadow: 1rem black;
 }
 
 #exit :hover    {
     background-color: #3c3a3a;
+    text-shadow: 1rem black;
 }
 
 #enter  {
@@ -41,6 +43,9 @@
     float: left;
     left: 8rem;
     height: 10rem;
+    transform:
+        text-shadow .5s,
+        background-color .5s;
 }
 
 #exit   {
@@ -49,6 +54,9 @@
     float: right;
     right: 8rem;
     height: 8rem;
+    transform:
+        text-shadow .5s,
+        background-color .5s;
 }
 
 p   {
