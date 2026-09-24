@@ -24,12 +24,22 @@
     flex-direction: column;
     top: 10px;
     font-size: 1.5rem;
-    width: 10rem;
+    width: 15rem;
 }
 
 .p-border :hover    {
     background-color: #3c3a3a;
     border-radius: 1rem;
+}
+
+#enter  {
+    display: flex;
+    float: left;
+}
+
+#exit   {
+    display: flex;
+    float: left;
 }
 
 p   {
