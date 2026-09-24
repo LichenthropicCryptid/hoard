@@ -125,4 +125,5 @@ ul  {
     display:flex;
     flex-direction: column;
     position:fixed;
+    left: 20rem;
 }
