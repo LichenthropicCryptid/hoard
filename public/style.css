@@ -123,6 +123,7 @@ a {
 ul  {
     list-style-type: none;
     display:flex;
+    flex-direction: column;
     position:relative;
-    left: 50%;
+    left: 40%;
 }
