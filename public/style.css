@@ -69,6 +69,10 @@ p   {
     font-size: 1.5rem;
 }
 
+strong{
+    font-size:large;
+}
+
 html {
     width:100%;
     height:100%;
