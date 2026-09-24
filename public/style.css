@@ -30,13 +30,13 @@
 
 #enter :hover    {
     background-color: #3c3a3a;
-    border-radius: 1rem;
+    border-radius: 5rem;
     
 }
 
 #exit :hover    {
     background-color: #3c3a3a;
-    border-radius: 1rem;
+    border-radius: 5rem;
     
 }
 
