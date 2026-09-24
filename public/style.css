@@ -25,6 +25,7 @@
     top: 10px;
     font-size: 1.5rem;
     width: 15rem;
+    height: 10rem;
 }
 
 .p-border :hover    {
@@ -35,11 +36,13 @@
 #enter  {
     display: flex;
     float: left;
+    left: 3rem;
 }
 
 #exit   {
     display: flex;
     float: right;
+    right: 3rem;
 }
 
 p   {
