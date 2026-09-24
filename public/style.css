@@ -33,13 +33,11 @@
     border-radius: 5rem;
     padding: 2rem 3rem;
 }
-#exit {
-    padding: 3rem 2rem;
-}
+
 #exit :hover    {
     background-color: #3c3a3a;
     border-radius: 5rem;
-    
+    padding: 3rem 2rem;
 }
 
 #enter  {
