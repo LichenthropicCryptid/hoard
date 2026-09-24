@@ -67,9 +67,10 @@
 
 .text-hover {
     font-size: larger;
+    font-weight: bolder;
 }
 .text-hover:hover   {
-    text-shadow: 0 0 5px, 0 0 11px;
+    text-shadow: 0 0 10px, 0 0 11px;
 }
 
 p   {
