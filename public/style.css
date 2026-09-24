@@ -122,6 +122,6 @@ a {
 
 ul  {
     list-style-type: none;
-    position:FLEX;
-    justify-content: center;
+    position:absolute;
+    left: 50%;
 }
