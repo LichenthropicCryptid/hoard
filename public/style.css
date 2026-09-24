@@ -37,7 +37,7 @@
 #exit :hover    {
     background-color: #3c3a3a;
     border-radius: 5rem;
-    
+    height: 10rem;
 }
 
 #enter  {
