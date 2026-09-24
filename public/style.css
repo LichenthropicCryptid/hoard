@@ -31,13 +31,13 @@
 #enter :hover    {
     background-color: #3c3a3a;
     border-radius: 1rem;
-    box-shadow: 0 0 0 red 30;
+    
 }
 
 #exit :hover    {
     background-color: #3c3a3a;
     border-radius: 1rem;
-    box-shadow: 0 0 0 red 30;
+    
 }
 
 #enter  {
