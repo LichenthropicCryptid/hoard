@@ -39,6 +39,8 @@
 }
 
 #enter  {
+    border-radius: 1.5rem;
+    z-index:2;
     display: flex;
     float: left;
     left: 8rem;
