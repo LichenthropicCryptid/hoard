@@ -12,16 +12,18 @@
 
 }
 
-#enter  {
-    font-size: 1rem;
-    width: 80%;
-    border: 3rem;
-}
+.p-border   {
+    border: 2.5rem solid transparent;
+    padding: 10px;
+    border-radius: 2rem;
+    border-image: url('./chain-border.png') 80 round;
+    z-index: 4;
+    background-color: #090909;
+    display:flex;
+    position: relative;
+    flex-direction: column;
+    top: 10px;
 
-#exit   {
-    font-size: 1rem;
-    width: 80%;
-    border: 3rem;
 }
 
 p   {
