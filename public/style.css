@@ -124,6 +124,8 @@ ul  {
     list-style-type: none;
     display:flex;
     flex-direction: column;
-    justify-items: center;
-    justify-content: space-between;
+}
+li {
+    margin: 1rem;
+    font-size: larger;
 }
