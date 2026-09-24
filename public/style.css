@@ -68,13 +68,15 @@
     margin: 5rem;
 }
 
-
 .menu   {
     font-size: larger;
     font-weight: bolder;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+}
+#hoard-title    {
+    font-size: x-large;
 }
 .text-hover {
     font-size: larger;
