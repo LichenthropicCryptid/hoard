@@ -15,11 +15,13 @@
 #enter  {
     font-size: 1rem;
     width: 80%;
+    border: 3rem;
 }
 
 #exit   {
     font-size: 1rem;
     width: 80%;
+    border: 3rem;
 }
 
 p   {
