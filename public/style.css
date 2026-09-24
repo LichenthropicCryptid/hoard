@@ -30,15 +30,10 @@
 
 #enter :hover    {
     background-color: #3c3a3a;
-    border-radius: 5rem;
-    padding: 2rem 3rem;
 }
 
 #exit :hover    {
     background-color: #3c3a3a;
-    border-radius: 5rem;
-    padding: 5rem 4rem;
-    margin: 0 auto;
 }
 
 #enter  {
