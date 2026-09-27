@@ -1,3 +1,7 @@
+* {
+    cursor: url('./cursor/cursor.png') 0 0, auto !important;
+        }
+
 .chain-border   {
     border: 5rem solid transparent;
     padding: 10px;
