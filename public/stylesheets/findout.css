@@ -25,7 +25,7 @@ html {
 .left   {
     width: 18%;
     height: 85%;
-    background-color: #50a1a88a;
+    background-color: #54c2a591;
     padding: 7px;
     border-radius: .15rem;
     align-self: left;
@@ -35,7 +35,6 @@ html {
     width: 18%;
     height: 85%;
     background-color: #54c2a591;
-    padding: 7px;
     border-radius: .15rem;
     align-self: right;
 }
@@ -52,7 +51,6 @@ html {
     width: 60%;
     height: 85%;
     background-color: rgba(135, 206, 250, 0.543);
-    padding: 7px;
     border-radius: .15rem;
     align-self: center;
 }
