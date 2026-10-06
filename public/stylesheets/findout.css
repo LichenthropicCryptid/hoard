@@ -60,6 +60,6 @@ html {
 .boxes {
     width: 100%;
     height: 100%;
-    border: 3px #060706 ridge;
+    border: 5px #66696e outset;
     border-radius: .15rem;
 }
