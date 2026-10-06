@@ -9,15 +9,15 @@ html {
 }
 
 .wrapper1   {
-    width: 100vw;
+    width: 99vw;
     height: 97vh;
     background-color: #0077d283;
-    margin: 1rem auto;
     display: flex;
     flex-wrap: wrap;
     border: 15px ridge #47555c;
     border-radius: .15rem;
     box-sizing: border-box;
+    padding: 7px;
     justify-content: space-evenly;
 }
 
