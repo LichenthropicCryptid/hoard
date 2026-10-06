@@ -25,6 +25,8 @@ body {
     border: 15px ridge #47555c;
     padding: 7px;
     justify-content: space-evenly;
+    width: 99.9vw;
+    height: 99.9vh;
 }
 
 .left   {
