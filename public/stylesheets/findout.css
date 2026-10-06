@@ -32,7 +32,7 @@ body {
 .left   {
     width: 45%;
     height: 85%;
-    background-color: #54c2a591;
+    background-color: #6ae8feac;
     border-radius: .15rem;
     align-self: left;
 }
@@ -40,7 +40,7 @@ body {
 .right  {
     width: 45%;
     height: 85%;
-    background-color: #54c2a591;
+    background-color: #6ae8feac;
     border-radius: .15rem;
     align-self: right;
 }
