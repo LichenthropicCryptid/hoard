@@ -30,7 +30,7 @@ body {
 }
 
 .left   {
-    width: 18%;
+    width: 45%;
     height: 85%;
     background-color: #54c2a591;
     border-radius: .15rem;
@@ -38,7 +38,7 @@ body {
 }
 
 .right  {
-    width: 18%;
+    width: 45%;
     height: 85%;
     background-color: #54c2a591;
     border-radius: .15rem;
@@ -51,14 +51,6 @@ body {
     background-color: #6fd1e2b6;
     padding: 7px;
     border-radius: .15rem;
-}
-
-.middle   {
-    width: 60%;
-    height: 85%;
-    background-color: rgba(135, 206, 250, 0.543);
-    border-radius: .15rem;
-    align-self: center;
 }
 
 .boxes {
