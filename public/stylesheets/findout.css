@@ -9,8 +9,8 @@ html {
 }
 
 .wrapper1   {
-    width: 99%;
-    height: 99vh;
+    width: 100vw;
+    height: 97vh;
     background-color: #0077d283;
     margin: 1rem auto;
     display: flex;
