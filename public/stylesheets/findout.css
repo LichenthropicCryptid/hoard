@@ -21,7 +21,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     box-sizing: border-box;
-    background-color: rgba(18, 119, 139, 0.729);
+    background: linear-gradient(135deg, #00b9e2ca 0%, #89e0ffca 53%, #004eb4be 100%);;
     border: 15px ridge #47555c;
     padding: 7px;
     justify-content: space-evenly;
@@ -32,7 +32,7 @@ body {
 .left   {
     width: 45%;
     height: 85%;
-    background-color: #6ae8feac;
+    background: linear-gradient(135deg, #6ae8feac 0%, #8bd2ffac 53%, #6ae8feac 100%);
     border-radius: .15rem;
     align-self: left;
 }
@@ -40,7 +40,7 @@ body {
 .right  {
     width: 45%;
     height: 85%;
-    background-color: #6ae8feac;
+    background: linear-gradient(135deg, #6ae8feac 0%, #8bd2ffac 53%, #6ae8feac 100%);
     border-radius: .15rem;
     align-self: right;
 }
