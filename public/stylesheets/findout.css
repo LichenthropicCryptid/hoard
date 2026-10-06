@@ -5,11 +5,12 @@
     }
 html {
     background-color: #0b1016;
+    
 }
 
 .wrapper1   {
-    width: 40rem;
-    height: 25rem;
+    width: 95%;
+    height: 95vh;
     background-color: #0077d283;
     margin: 1rem auto;
     display: flex;
