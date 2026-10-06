@@ -6,7 +6,6 @@
 html {
     background-color: #0b1016;
     overflow: hidden;
-    border: 15px ridge #47555c;
     width: 99.9vw;
     height: 99.9vh;
 }
@@ -14,6 +13,8 @@ body {
     background-image: url(https://64.media.tumblr.com/1fe743f20251f5f8fcce60fc517f669a/f00c20710136b1db-8e/s500x750/936561bde05b0207daf145808b7035153104ecef.gif);
     background-repeat: no-repeat;
     background-size:cover;
+    width: 99.9vw;
+    height: 99.9vh;
 }
 .wrapper1   {
     border-radius: .15rem;
