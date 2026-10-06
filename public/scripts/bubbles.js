@@ -2,7 +2,7 @@
 // <![CDATA[
 var colours=new Array("rgb(81, 205, 239)", "rgb(86, 189, 58)", "rgb(47, 83, 212)", "rgb(34, 179, 118)", "#00bcb9"); // colours for top, right, bottom and left borders and background of bubbles
 var bubbles=66; // how many bubbles are moving at any given time
-var over_or_under="over"; // set to "over" for bubbles to always be on top, or "under" to allow them to float behind other objects
+var over_or_under="under"; // set to "over" for bubbles to always be on top, or "under" to allow them to float behind other objects
 
 /****************************
 *   JavaScript Bubble Bath  *
